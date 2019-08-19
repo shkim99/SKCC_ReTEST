@@ -298,6 +298,8 @@ admin / admin
 ![](/img/P1-30.PNG)
 ![](/img/P1-31.PNG)
 ![](/img/P1-32.PNG)
+![](/img/P1-33.PNG)
+
 
 #### CHD 클러스터 설치 시작
 
