@@ -78,7 +78,7 @@ getent passwd training
 ```
 ![](/img/P1-8.PNG)
 
-### Linux setup (�߰�)
+### Linux setup 
 
 #### a.2.1 yum update
 ```
