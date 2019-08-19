@@ -1,5 +1,3 @@
-# Part II
-
 # Part 2
 
 ## Problem 1.
