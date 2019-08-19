@@ -299,6 +299,7 @@ admin / admin
 ![](/img/P1-31.PNG)
 ![](/img/P1-32.PNG)
 ![](/img/P1-33.PNG)
+![](/img/P1-34.PNG)
 
 
 #### CHD 클러스터 설치 시작
@@ -442,6 +443,5 @@ sqoop export \
 --fields-terminated-by '\t' \
 --export-dir hdfs://cm/user/training/results
 ```
-
 
 # End Of Document
