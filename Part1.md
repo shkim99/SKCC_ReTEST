@@ -78,7 +78,7 @@ getent passwd training
 ```
 ![](/img/P1-8.PNG)
 
-### Linux setup 
+### Linux setup
 
 #### a.2.1 yum update
 ```
@@ -116,7 +116,7 @@ SELinux status:                 disabled
 ![](/img/P1-12.PNG)
 ![](/img/P1-13.PNG)
 
-#### a.2.5. VM Swappiness ����
+#### a.2.5. VM Swappiness
 ```
 cat /proc/sys/vm/swappiness
 sudo sysctl -w vm.swappiness=1
@@ -127,7 +127,7 @@ sudo vi /etc/sysctl.conf
   =>  vm.swappiness=1
 ```
 ![](/img/P1-14.PNG)
-#### a.2.6. SSH Connection ����
+#### a.2.6. SSH Connection
 ```
 sudo vi /etc/ssh/sshd_config
 # PasswordAuthentication -> yes 로 변경
@@ -139,7 +139,7 @@ sudo systemctl status sshd.service
 ![](/img/P1-15.PNG)
 ![](/img/P1-16.PNG)
 
-#### a.2.7. KEYGEN ����
+#### a.2.7. KEYGEN
 ```
 cd .ssh
 
